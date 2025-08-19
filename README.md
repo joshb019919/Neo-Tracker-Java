@@ -6,6 +6,6 @@ Gradle: If you clone this to your local machine and have Gradle installed, you c
 
 Then go to http://localhost:8080/.
 
-No Gradle: If you clone this to your local machine, there is often a green start button in IDEs.  Press that.
+No Gradle: If you clone this to your local machine, there is often a green start button in IDEs.  Press that, it *should* be self-contained.
 
 Then go to http://localhost:8080/.
