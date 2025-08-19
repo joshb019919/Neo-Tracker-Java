@@ -1,7 +1,9 @@
 # Neo-Tracker
-Pulls and displays near-Earth object tracking data from NASA's API.
+Pulls and displays near-Earth object tracking data from NASA's API.  Written in Java + Spring Boot.
 
 # Usage
-Pull the repo to a local machine.
-Do `gradle bootrun`.
-Look at the results on http://localhost:8080/.
+Gradle: If you clone this to your local machine and have Gradle installed, you can do `gradle bootrun`.
+Then go to http://localhost:8080/.
+
+No Gradle: If you clone this to your local machine, there is often a green start button in IDEs.  Press that.
+Then go to http://localhost:8080/.
